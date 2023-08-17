@@ -1,6 +1,6 @@
 # Hello, I'm Luis Marín
 
-I am 25 years old, I am from Tuluá - Valle, **Colombia**
+I am 26 years old, I am from Tuluá - Valle, **Colombia**
 Currently studying at **Universidad del Valle**, studying **Systems Engineering**
 
 
